@@ -77,7 +77,7 @@ This project aims to assist radiologists and clinicians by automating the diagno
 
 ## 🤝 Contributors
 
-<a href="https://github.com/abilashmaharjan">
+<a href="https://github.com/mahaabi01">
   <img src="https://github.com/mahaabi01.png" width="60px;" alt="Abilash Maharjan"/>
 </a>
 <a href="https://github.com/itsanmolgupta">
