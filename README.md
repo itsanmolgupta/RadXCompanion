@@ -15,16 +15,6 @@ This project aims to assist radiologists and clinicians by automating the diagno
 
 ---
 
-## 📂 Project Structure
-
-- `model/` – Code for training classification and report generation models
-- `notebooks/` – Jupyter Notebooks for model experimentation and evaluation
-- `webapp/` – Streamlit-based frontend for the system
-- `utils/` – Image preprocessing, text generation, and PDF creation
-- `data/` – Dataset loading and formatting scripts (NIH & MIMIC-CXR)
-
----
-
 ## 🧠 Key Features
 
 - **Multi-label Classification** using `DenseNet121` with AUC ~ **0.85**
@@ -50,9 +40,7 @@ This project aims to assist radiologists and clinicians by automating the diagno
 
 ## 📽️ Demo & Resources
 
-- 📘 **[Project Report (PDF)](https://your-link.com/project-report.pdf)**
-- 📊 **[Presentation Slides](https://your-link.com/presentation-slides.pdf)**
-- ▶️ **[Demo Video](https://youtu.be/your-demo-video-link)**
+- ▶️ **[Demo Video](https://youtu.be/7GET0LtmacU)**
 
 ---
 
