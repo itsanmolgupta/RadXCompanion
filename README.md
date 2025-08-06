@@ -38,7 +38,7 @@ This project aims to assist radiologists and clinicians by automating the diagno
 
 ---
 
-## 📽️ Demo & Resources
+## 📽️ Project Demo
 
 - ▶️ **[Demo Video](https://youtu.be/7GET0LtmacU)**
 
