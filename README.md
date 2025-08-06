@@ -91,7 +91,7 @@ This project aims to assist radiologists and clinicians by automating the diagno
 
 ## 📜 License
 
-This project is licensed for academic and non-commercial use. For other uses, please contact the authors or Thapathali Campus.
+This project is licensed for academic and non-commercial use. For other uses, please contact the authors.
 
 ---
 
